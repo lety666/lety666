@@ -3,7 +3,11 @@
 ### 🔭 Estudante de Análise e Desenvolvimento de Sistemas | UERJ
 ### 🌺she/her
 <img src="/img/gifgithub.gif">
-
+<div>
+<a href="https://github.com/lety666">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lety666&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ 
+</div>
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="60" height="60" />
           
