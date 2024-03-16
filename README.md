@@ -1,5 +1,13 @@
-### Hi there 👋
+# 🌱 Hello! Welcome to my Github profile.
+## My name is Letycia ✨
+### 🔭 Estudante de Análise e Desenvolvimento de Sistemas | UERJ
+### 🌺she/her
 
+
+
+### 💌email:letyciavitoriac.ramos@gmail.com
+### 💌instagram:www.instagram.com/lett.666
+### 💌LinkedIn:www.linkedin.com/in/costaletycia
 <!--
 **lety666/lety666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
